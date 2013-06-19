@@ -1,0 +1,29 @@
+To start the project just run "TrajClustering_SpeedPerform.py"
+
+You need thhese libraries:
+
+numpy
+string
+select
+sys
+matplotlib.pyplot
+subprocess
+uuidthe 
+datetime
+csv
+math
+copy
+thread
+pylab
+exceptions
+
+
+through the stdin you can chose the several options to discover the functionality.
+
+The part of trajectory clustering needs a c program, there already esist the compiled version of a program
+in /movebank/bin/ (traclus). It is compiled on linux Ubuntu 64 bit. If it should not work recompile it.
+You will find the make file in the source code directory /movebank/bin/traclus.
+
+For every doubt or comments michele.linardi@alice.it
+
+ML
