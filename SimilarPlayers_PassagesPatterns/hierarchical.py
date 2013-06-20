@@ -13,17 +13,21 @@ playerLabels = []
 
 for player in db['dbscan']:
     if player['name'] != 'Referee':
-        all_points.append([player['unsuccessfulPassages'], player['unsuccessfulPassagesDefensiveThird']])#, player['unsuccessfulCrosses']])
+        all_points.append([player['successfulPassages'],
+                           player['unsuccessfulPassages'],
+                           player['unsuccessfulPassagesDefensiveThird'],
+                           player['successfulCrosses'],
+                           player['unsuccessfulCrosses'],
+                           player['shotsOnGoal'],
+                           player['shotsFailed'],
+                           player['wonTackles'],
+                           player['lostTackles']])
         playerLabels.append(player['name'])
-
-
-    #    mlabOrder = N.array(1,2,6,7,3,8,9,4,5,10) #the order returned by the original MATLAB code
-    # Remeber MATLAB counts from 1, python from 0
 
 all_points = np.array(all_points)
 thresh = 4
 
-clusters =  scipy.cluster.hierarchy.fclusterdata(all_points, thresh, criterion='distance', metric='euclidean', depth=2, method='single', R=None)
+clusters =  scipy.cluster.hierarchy.fclusterdata(all_points, thresh, criterion='distance', metric='euclidean', method='single', R=None) #method = ward is default but take attention in MAC OS
 
 title = "threshold: %f, number of clusters: %d" % (thresh, len(set(clusters)))
 print title
