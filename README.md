@@ -13,7 +13,7 @@ After the analyzation everything will be saved in a database and you can use kme
 
 Trajectories and speed variance
 ===========================
-The dataset must be placed in the "DEBS" directory with the name "full-game".
+The dataset must be placed in the "DEBSDATA" directory with the name "full-game".
 To start the project just run "TrajClustering_SpeedPerform.py"
 
 You need thhese libraries:
