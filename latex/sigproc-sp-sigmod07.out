@@ -1,0 +1,16 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Related works}{}% 2
+\BOOKMARK [1][-]{section.3}{Proposed approach}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{The dataset}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Similar players to train}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{Passages patterns}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.4}{Clustering of trajectories}{section.3}% 7
+\BOOKMARK [3][-]{subsubsection.3.4.1}{Find the meaningful trajectory}{subsection.3.4}% 8
+\BOOKMARK [3][-]{subsubsection.3.4.2}{The powerfulness of the representative trajectory}{subsection.3.4}% 9
+\BOOKMARK [3][-]{subsubsection.3.4.3}{Experimental evaluation of clustering}{subsection.3.4}% 10
+\BOOKMARK [2][-]{subsection.3.5}{Speed performance analysis}{section.3}% 11
+\BOOKMARK [3][-]{subsubsection.3.5.1}{The streaming algorithm for the variance}{subsection.3.5}% 12
+\BOOKMARK [3][-]{subsubsection.3.5.2}{Results of the performance speed analysis}{subsection.3.5}% 13
+\BOOKMARK [1][-]{section.4}{Future works}{}% 14
+\BOOKMARK [1][-]{section.5}{Conclusions}{}% 15
+\BOOKMARK [1][-]{section.6}{References }{}% 16

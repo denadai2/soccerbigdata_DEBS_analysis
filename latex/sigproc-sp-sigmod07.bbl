@@ -1,0 +1,134 @@
+\begin{thebibliography}{10}
+
+\bibitem{jankovic}
+B.~L. Aleksandar~Jankovic and M.~Pasic.
+\newblock Analysis of efficient attacks in the 2008 european football
+  championship.
+\newblock {\em Fizička kultura}, 2, 2009.
+
+\bibitem{arthur2007k}
+D.~Arthur and S.~Vassilvitskii.
+\newblock k-means++: The advantages of careful seeding.
+\newblock In {\em Proceedings of the eighteenth annual ACM-SIAM symposium on
+  Discrete algorithms}, pages 1027--1035. Society for Industrial and Applied
+  Mathematics, 2007.
+
+\bibitem{babcock2003maintaining}
+B.~Babcock, M.~Datar, R.~Motwani, and L.~O'Callaghan.
+\newblock Maintaining variance and k-medians over data stream windows.
+\newblock In {\em Proceedings of the twenty-second ACM SIGMOD-SIGACT-SIGART
+  symposium on Principles of database systems}, pages 234--243. ACM, 2003.
+
+\bibitem{mitsloan}
+Bizpunk.
+\newblock 2013 mit sloan sports analytics conference, Mar. 2013.
+
+\bibitem{Choi20111274}
+K.~Choi and Y.~Seo.
+\newblock Automatic initialization for 3d soccer player tracking.
+\newblock {\em Pattern Recognition Letters}, 32(9):1274 -- 1282, 2011.
+
+\bibitem{debs2013}
+DEBS2013.
+\newblock The 7th acm international conference on distributed event-based
+  systems.
+
+\bibitem{debs20131}
+DEBS2013.
+\newblock The acm debs 2013 grand challenge.
+
+\bibitem{gazzetta}
+G.~dello Sport.
+\newblock Serie a: 1.630 milioni di debiti. club in crisi, i costi non calano.
+  napoli e lazio in attivo, Mar. 2013.
+
+\bibitem{duch2010quantifying}
+J.~Duch, J.~S. Waitzman, and L.~A.~N. Amaral.
+\newblock Quantifying the performance of individual players in a team activity.
+\newblock {\em PloS one}, 5(6):e10937, 2010.
+
+\bibitem{Figueroa2006122}
+P.~J. Figueroa, N.~J. Leite, and R.~M. Barros.
+\newblock Tracking soccer players aiming their kinematical motion analysis.
+\newblock {\em Computer Vision and Image Understanding}, 101(2):122 -- 135,
+  2006.
+
+\bibitem{forgy1965cluster}
+E.~W. Forgy.
+\newblock Cluster analysis of multivariate data: efficiency versus
+  interpretability of classifications.
+\newblock {\em Biometrics}, 21:768--769, 1965.
+
+\bibitem{grabiner1999sabermetric}
+D.~Grabiner.
+\newblock The sabermetric manifesto.
+\newblock {\em Baseball SABR. Web: http://baseball1.
+  com/bb-data/grabiner/manifesto. html GARGANTA, J. \& PINTO, J.. O ensino do
+  Futebol. In A Gra{\c{c}}a \& J. Oliveira (Orgs). O ensino dos jogos
+  desportivos coletivos}, pages 95--135, 1999.
+
+\bibitem{guimera2005team}
+R.~Guimera, B.~Uzzi, J.~Spiro, and L.~A.~N. Amaral.
+\newblock Team assembly mechanisms determine collaboration network structure
+  and team performance.
+\newblock {\em Science}, 308(5722):697--702, 2005.
+
+\bibitem{james2006role}
+N.~James.
+\newblock The role of notational analysis in soccer coaching.
+\newblock {\em International Journal of Sports Science and Coaching},
+  1(2):185--198, 2006.
+
+\bibitem{Wisdom}
+S.~D. Katzenback~JR.
+\newblock {\em The Wisdom of Teams}.
+\newblock Harper Business, 1993.
+
+\bibitem{lago2010game}
+C.~Lago-Pe{\~n}as, J.~Lago-Ballesteros, A.~Dellal, and M.~G{\'o}mez.
+\newblock Game-related statistics that discriminated winning, drawing and
+  losing teams from the spanish soccer league.
+\newblock {\em Journal of Sports Science and Medicine}, 9(2):288--293, 2010.
+
+\bibitem{lee2007trajectory}
+J.-G. Lee, J.~Han, and K.-Y. Whang.
+\newblock Trajectory clustering: a partition-and-group framework.
+\newblock In {\em Proceedings of the 2007 ACM SIGMOD international conference
+  on Management of data}, pages 593--604. ACM, 2007.
+
+\bibitem{li2010incremental}
+Z.~Li, J.-G. Lee, X.~Li, and J.~Han.
+\newblock Incremental clustering for trajectories.
+\newblock In {\em Database Systems for Advanced Applications}, pages 32--46.
+  Springer, 2010.
+
+\bibitem{pelivs2003sport}
+M.~Peli{\v{s}}.
+\newblock Sport--kulturn{\'\i} fenom{\'e}n.
+\newblock {\em Telesn{\'a} v{\`y}chova a {\v{s}}port v kult{\'u}re
+  spolo{\v{c}}nosti. Fakulta t{\v{e}}lesnej v{\`y}chovy a {\v{s}}portu,
+  Univerzita Komensk{\'e}ho, Bratislava}, pages 142--148, 2003.
+
+\bibitem{newyorkredbulls}
+N.~Y. Redbulls.
+\newblock Armchair analyst: What we've learned from opta.
+
+\bibitem{ScienceSoccer}
+W.~A. Reilly~T.
+\newblock {\em Science and soccer}.
+\newblock Routledge, 2003.
+
+\bibitem{vancollaboration}
+J.~VAN~DIERENDONCK.
+\newblock Collaboration: Group theory.
+
+\bibitem{progression}
+Wikipedia.
+\newblock Progression of british football transfer fee record.
+
+\bibitem{wuchty2007increasing}
+S.~Wuchty, B.~F. Jones, and B.~Uzzi.
+\newblock The increasing dominance of teams in production of knowledge.
+\newblock {\em Science}, 316(5827):1036--1039, 2007.
+
+\end{thebibliography}
