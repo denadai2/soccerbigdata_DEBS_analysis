@@ -1,5 +1,14 @@
-soccerbigdata_DEBS_analysis
+The ACM DEBS 2013 Grand Challenge analysis
 ===========================
+
+This work wants to create a
+small framework of tools which permits the coaches to base
+their new strategies not only on their intuitions and judgments
+but also on comprensive (and maybe not human-eyevisible)
+statistics. Using the past researches in the football
+and sport elds, it will analyze a match recorded by DEBS
+with an innovative system of sensors which could be the
+future of football.
 
 The full dataset can be retrived here: http://www.orgs.ttu.edu/debs2013/index.php?goto=cfchallengedetails but we also split it in a 5m dataset, placed in the project. However for the passage patterns and similar players, our advice is to use the full dataset.
 
